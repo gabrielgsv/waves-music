@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "waves-music",
+    "slug": "waves-music",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
